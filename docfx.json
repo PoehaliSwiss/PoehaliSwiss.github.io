@@ -57,7 +57,7 @@
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "_exported_templates",
+      "_exported_templates/default",
       "mathew/src"
     ],
     "postProcessors": [],
