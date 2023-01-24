@@ -12,7 +12,7 @@ on:
     branches:
     - main
     paths:
-    - poehali/**
+    - ./**
     - .github/workflows/main.yml
   workflow_dispatch:
 
@@ -35,7 +35,7 @@ jobs:
         args: install docfx
 
     - name: DocFX Build
-      working-directory: poehali
+      working-directory: .
       run: docfx .\docfx.json
       continue-on-error: false
 
@@ -44,5 +44,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: poehali/_site
+        publish_dir: ./_site
         force_orphan: true
