@@ -7,13 +7,13 @@ on:
     paths:
     - src/**
     - poehali/**
-    - .github/workflows/docs.yml
+    - .github/workflows/main.yml
   pull_request:
     branches:
     - main
     paths:
     - poehali/**
-    - .github/workflows/docs.yml
+    - .github/workflows/main.yml
   workflow_dispatch:
 
 jobs:
