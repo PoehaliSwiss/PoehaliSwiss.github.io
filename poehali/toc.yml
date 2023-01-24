@@ -1,0 +1,4 @@
+- name: Подтверждение прав
+  href: confirm/
+- name: Покупка/Продажа
+  href: sell/

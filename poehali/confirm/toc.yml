@@ -1,0 +1,14 @@
+- name: Содержание экзамена
+  href: intro.md
+- name: Немецкие команды / Словарь
+  href: dictionary.md
+- name: Автобан
+  href: autobahn.md
+- name: Езда вне населенного пункта
+  href: auserortstr.md
+- name: Езда в населенном пункте
+  href: innerortstr.md
+- name: Зона 30, 20
+  href: zone.md
+- name: Маневры
+  href: manouver.md
