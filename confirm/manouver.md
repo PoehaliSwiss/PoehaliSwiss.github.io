@@ -14,28 +14,28 @@
 
 * Задом через правую полосу (Wenden rückwärts in Ausweichstelle rechts)
 
-![Разворот задом через правую полосу](https://de.wikibooks.org/wiki/Datei:Autofahren_Man%C3%B6ver_2PWR.png)
+![Разворот задом через правую полосу](https://upload.wikimedia.org/wikibooks/de/2/26/Autofahren_Man%C3%B6ver_2PWR.png?20101006112324)
 
 * Задом через левую полосу Wenden rückwärts in Ausweichstelle links
 
-![Разворот задом через левую полосу](https://de.wikibooks.org/wiki/Datei:Autofahren_Man%C3%B6ver_2PWL.png)
+![Разворот задом через левую полосу](https://upload.wikimedia.org/wikibooks/de/d/dd/Autofahren_Man%C3%B6ver_2PWL.png?20101006112359)
 
 * Трехточечный разворот 3 Punkt Wenden
 
 ![Разворот трехточечный](https://upload.wikimedia.org/wikibooks/de/e/e8/Autofahren_Man%C3%B6ver_3PW.png)
 
-### Разворот передом
+### Разворот передом (U-Turn)
 
 > [!WARNING]
-> Выполняется на кольцах и вокруг "островков" (U-Turn)
+> Выполняется на кольцах и вокруг "островков" 
 
 Для U-Turn требуется много места
 
-![U-turn](https://de.wikibooks.org/wiki/Datei:Autofahren_Man%C3%B6ver_U-Turn.png)
+![U-turn](https://upload.wikimedia.org/wikibooks/de/thumb/0/0a/Autofahren_Man%C3%B6ver_U-Turn.png/576px-Autofahren_Man%C3%B6ver_U-Turn.png)
 
-* Разворот через разделительную полосу
+* Разворот через разделительную полосу (insel turn)
 
-![Разворот через разделительную полосу](../images/uturn.jpeg) (insel turn)]
+![Разворот через разделительную полосу](../images/uturn.jpeg)
 
 * Разворот через кольцо
 
