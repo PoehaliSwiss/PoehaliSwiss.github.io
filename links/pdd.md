@@ -1,6 +1,6 @@
 ## Приложения для изучения ПДД
 
-### iOS
+**iOS**
 
 - [Theorie 24](https://apps.apple.com/ch/app/theorie24-ch-das-original-2022/id464801879)
 
@@ -8,7 +8,7 @@
 
 - [Fahrlehrer 24](https://apps.apple.com/ch/app/auto-theorie-fahrlehrer24/id468341446)
 
-### Android
+**Android**
 
 - [Theorie 24](https://play.google.com/store/apps/details?id=com.theorie24.app&hl=de_CH&gl=US)
 
@@ -16,7 +16,7 @@
 
 - [Fahrlehrer 24](https://play.google.com/store/apps/details?id=com.tigerlab.fahrlehrer)
 
-### Site
+**Site**
 
 - [Theorie 24](https://www.theorie24.ch/)
 
