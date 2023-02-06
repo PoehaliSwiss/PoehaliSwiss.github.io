@@ -17,8 +17,8 @@
     "content": [
       {
         "files": [
-          "sell/**.yml",
-          "sell/**.md"
+          "links/**.yml",
+          "links/**.md"
         ]
       },
       {

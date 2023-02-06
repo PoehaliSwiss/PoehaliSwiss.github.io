@@ -1,0 +1,14 @@
+- name: Инструкторы
+  href: instructor.md
+- name: Приложения парковок
+  href: park.md
+- name: Приложения ПДД
+  href: pdd.md
+- name: Где купить авто
+  href: car.md
+- name: Где купить б/у колеса
+  href: tires.md
+- name: Запчасти
+  href: parts.md
+- name: Адреса сервисов
+  href: services.md
