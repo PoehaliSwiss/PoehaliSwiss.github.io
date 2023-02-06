@@ -38,7 +38,7 @@
 > [!WARNING]
 > Выполняется на кольцах и вокруг "островков" 
 
-Для U-Turn требуется много места
+Для U-Turn требуется много места. Делать u-turn нужно через островки или где есть круговое движение.
 
 ![U-turn](https://upload.wikimedia.org/wikibooks/de/thumb/0/0a/Autofahren_Man%C3%B6ver_U-Turn.png/576px-Autofahren_Man%C3%B6ver_U-Turn.png)
 
