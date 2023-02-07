@@ -51,8 +51,7 @@
     "dest": "_site",
     "globalMetadata": {
        "_disableContribution": false,
-       "_enableSearch": true,
-       "_disableBreadcrumb": true
+       "_enableSearch": true
     },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
