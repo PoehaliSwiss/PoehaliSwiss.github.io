@@ -1,0 +1,438 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/PoehaliSwiss.github.io/PoehaliSwiss.github.io",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "YCSp9W7wwDWLaPRsjzyvkH/5hYAoQSQ5RK/IYqjl4xo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "confirm/apply.md",
+      "output": {
+        ".html": {
+          "relative_path": "confirm/apply.html",
+          "hash": "Y51tQiaCwxn4pcaYFgY/mCyLrmNCACjL1B9E+Tmc3Nw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "confirm/auserortstr.md",
+      "output": {
+        ".html": {
+          "relative_path": "confirm/auserortstr.html",
+          "hash": "tXwXC1W94b4OibQkhuipQmHmv+Y9YQ5uUpW97e2JCGk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "confirm/autobahn.md",
+      "output": {
+        ".html": {
+          "relative_path": "confirm/autobahn.html",
+          "hash": "8zf3BcFX2a6Q+hZZgBTDQoXls3PYqDx9y2opZ0DM9x4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "confirm/dictionary.md",
+      "output": {
+        ".html": {
+          "relative_path": "confirm/dictionary.html",
+          "hash": "JO8eD9xVMQxgH8ubu45OTTkNlkmlMf+92m7cIorSCHw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "confirm/innerortstr.md",
+      "output": {
+        ".html": {
+          "relative_path": "confirm/innerortstr.html",
+          "hash": "wqrrdsIRIE/O8i2IlIn/m9fj/36OdPo0lecgkIiwgiQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "confirm/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "confirm/intro.html",
+          "hash": "815WypbWywF1wzhqnCl5NY7er2OZc6i8D6DSF91gAhA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "confirm/manouver.md",
+      "output": {
+        ".html": {
+          "relative_path": "confirm/manouver.html",
+          "hash": "L451uu4m92PbsV2x/+JkhMl/cgaBWjV3Z1UxgTP9oMk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "confirm/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "confirm/toc.html",
+          "hash": "ynKjU5aTy/hzDCyl2mNm+pV5tbrSqTVwz1YHWv0GcrQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "confirm/zone.md",
+      "output": {
+        ".html": {
+          "relative_path": "confirm/zone.html",
+          "hash": "0PkAiz5Lis1bVcE5q0mBx/OjBzHZZlSZITRJeqx8XHs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/autobahn.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/autobahn.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/autobahn_end.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/autobahn_end.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/back_park.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "images/back_park.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/express_way.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/express_way.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/express_way_end.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/express_way_end.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/generell.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/generell.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/ring_turn.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/ring_turn.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/uturn.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "images/uturn.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/zone20.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/zone20.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/zone20end.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/zone20end.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/zone30.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/zone30.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/zone30end.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/zone30end.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "/thgQgsoAnBVho5Yp15mTFEkjG0sQq+EgAofHdqP4cM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "links/car.md",
+      "output": {
+        ".html": {
+          "relative_path": "links/car.html",
+          "hash": "FLAkH4Oedwc0G6W8NSDgiPY5SUQBShUSTaf/99AnLpY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "links/instructor.md",
+      "output": {
+        ".html": {
+          "relative_path": "links/instructor.html",
+          "hash": "0VkyYybDr5Xt1vZO4v8RkMoiI6LOHEvOJPzI9FZUSlo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "links/park.md",
+      "output": {
+        ".html": {
+          "relative_path": "links/park.html",
+          "hash": "Y5mQLMovnrIMKBZn4y+qLY1FH4iaXBXZJT9Xnp8m9cQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "links/parts.md",
+      "output": {
+        ".html": {
+          "relative_path": "links/parts.html",
+          "hash": "V6z5PmznOI/Z7YujTRoYJXMOPaFBcVQR5hZr95lKbj4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "links/pdd.md",
+      "output": {
+        ".html": {
+          "relative_path": "links/pdd.html",
+          "hash": "gIaEZzVzajGnz+bOKZJI1OnbOz9nHcL0JaT+3T4IXmE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "links/services.md",
+      "output": {
+        ".html": {
+          "relative_path": "links/services.html",
+          "hash": "nsjKPAa2lx7R+6QB69gbpiTT/r2I/NJYE9RJpCCf/T8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "links/tires.md",
+      "output": {
+        ".html": {
+          "relative_path": "links/tires.html",
+          "hash": "IapUZkG84MT3M5MeJrsuarcaDL1cgCzK+nXVmZr8yUU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "links/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "links/toc.html",
+          "hash": "a6OC0houIH26q3pSBby6cMTlc6JPSaK4VOEoaiTxqAs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "69LXw/7d/yOVGjIHt01IM2p6kLCF1zIUzX1LftA8oMs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 17,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
