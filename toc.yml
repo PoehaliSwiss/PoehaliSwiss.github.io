@@ -1,4 +1,6 @@
 - name: Подтверждение прав
   href: confirm/
+- name: Правила дорожного движения Швейцарии
+  href: pddswiss/
 - name: Полезные ссылки
-  href: links/
+  href: links/
