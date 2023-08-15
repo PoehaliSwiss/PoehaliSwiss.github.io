@@ -28,6 +28,12 @@
           "toc.yml",
           "*.md"
         ]
+      },
+      {
+        "files": [
+          "pddswiss/**.md",
+          "pddswiss/**.yml",
+        ]
       }
     ],
     "resource": [
