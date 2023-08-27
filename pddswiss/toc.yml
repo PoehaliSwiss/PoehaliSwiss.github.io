@@ -1,2 +1,4 @@
 - name: Поведение
   href: behaviour.md
+- name: Остановка транспортных средств
+  href: stop.md
