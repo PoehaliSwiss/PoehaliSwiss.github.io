@@ -14,7 +14,7 @@
 
 **Richtung Хренникон** - направление Хренникон. Ищем табличку куда надо перестроиться в Хренникон.
 
-**Richtung Strasseverkersamt** - направление сдание гаи. Если не знаете, так и скажите. Ich weiss nicht wo ist Strasseverkersamt. Konnen sie bitte sagen wo ich muss fahren? - Я не знаю где гаи. Подскажите плз куда ехать
+**Richtung Strasseverkersamt** - направление здание гаи. Если не знаете, так и скажите. Ich weiss nicht wo ist Strasseverkersamt. Konnen sie bitte sagen wo ich muss fahren? - Я не знаю где гаи. Подскажите плз куда ехать
 
 **parkieren Rückwärts** - паркуемся задом
 
