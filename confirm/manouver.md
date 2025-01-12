@@ -32,16 +32,16 @@
 
 * Задом через правую полосу (Wenden rückwärts in Ausweichstelle rechts)
 
-![Разворот задом через правую полосу](https://upload.wikimedia.org/wikibooks/de/2/26/Autofahren_Man%C3%B6ver_2PWR.png?20101006112324)
+![Разворот задом через правую полосу](https://upload.wikimedia.org/wikipedia/commons/2/26/Autofahren_Man%C3%B6ver_2PWR.png)
 Не забываем про поворотник вправо.
 
 * Задом через левую полосу Wenden rückwärts in Ausweichstelle links
 
-![Разворот задом через левую полосу](https://upload.wikimedia.org/wikibooks/de/d/dd/Autofahren_Man%C3%B6ver_2PWL.png?20101006112359)
+![Разворот задом через левую полосу](https://upload.wikimedia.org/wikipedia/commons/d/dd/Autofahren_Man%C3%B6ver_2PWL.png)
 
 * Трехточечный разворот 3 Punkt Wenden
 
-![Разворот трехточечный](https://upload.wikimedia.org/wikibooks/de/e/e8/Autofahren_Man%C3%B6ver_3PW.png)
+![Разворот трехточечный](https://upload.wikimedia.org/wikipedia/commons/e/e8/Autofahren_Man%C3%B6ver_3PW.png)
 
 ### Разворот передом (U-Turn)
 
@@ -50,7 +50,7 @@
 
 Для U-Turn требуется много места. Делать u-turn нужно через островки или где есть круговое движение.
 
-![U-turn](https://upload.wikimedia.org/wikibooks/de/thumb/0/0a/Autofahren_Man%C3%B6ver_U-Turn.png/576px-Autofahren_Man%C3%B6ver_U-Turn.png)
+![U-turn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Autofahren_Man%C3%B6ver_U-Turn.png/200px-Autofahren_Man%C3%B6ver_U-Turn.png)
 
 * Разворот через разделительную полосу (insel turn)
 
@@ -75,3 +75,5 @@
 ## Безопасная остановка в горной местности (Bergestrasse sichern кажется)
 
 Эксперт увидит уклон процентов 10+ и попросит остановиться справа. Ищем место, где бордюр имеет явные четкие квадратные границы. Включаем поворотник вправо, встаем до упора к бордюру. Выкручиваем руль влево. Включаем нейтралку и с тормозом сползаем вниз, пока машина не упрется в бордюр и не остановится. Включаем P. Ставим ручник. Выключаем машину. Выходим, достаем из багажника упорку для колеса, вставляем под правое заднее колесо. Все.
+
+[Полезный конспект швейцарца по всем темам](https://de.wikibooks.org/wiki/Autofahren_(Schweiz):_Praxis:_Man%C3%B6ver)
