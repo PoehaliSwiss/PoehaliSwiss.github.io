@@ -1,4 +1,6 @@
 title: New Course
 structure:
   - title: A1
-    items: []
+    items:
+      - title: Chapter 1
+        items: []
