@@ -1,8 +1,0 @@
-title: New Course
-structure:
-  - title: A1
-    items:
-      - title: Chapter 1
-        items:
-          - title: Basics
-            path: /chapter-1/basics
